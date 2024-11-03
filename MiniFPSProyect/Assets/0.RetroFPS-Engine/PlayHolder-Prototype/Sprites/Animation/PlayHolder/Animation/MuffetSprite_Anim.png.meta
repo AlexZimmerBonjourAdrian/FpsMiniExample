@@ -1,0 +1,1366 @@
+fileFormatVersion: 2
+guid: 16b63705251e1dc4485a08f79717f767
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2259004643392451032
+    second: MuffetSprite_Anim_0
+  - first:
+      213: -2630867365174101165
+    second: MuffetSprite_Anim_1
+  - first:
+      213: 613508230705927047
+    second: MuffetSprite_Anim_2
+  - first:
+      213: 8105932297070739689
+    second: MuffetSprite_Anim_3
+  - first:
+      213: -11708394977261228
+    second: MuffetSprite_Anim_4
+  - first:
+      213: -3867934737473166392
+    second: MuffetSprite_Anim_5
+  - first:
+      213: -3705404855555845964
+    second: MuffetSprite_Anim_6
+  - first:
+      213: -5186237859517595935
+    second: MuffetSprite_Anim_7
+  - first:
+      213: 873686215861301749
+    second: MuffetSprite_Anim_8
+  - first:
+      213: 399629710498199199
+    second: MuffetSprite_Anim_9
+  - first:
+      213: 2065473070982269933
+    second: MuffetSprite_Anim_10
+  - first:
+      213: -2119032538725299679
+    second: MuffetSprite_Anim_11
+  - first:
+      213: 7341562389193176289
+    second: MuffetSprite_Anim_12
+  - first:
+      213: -324970475298622653
+    second: MuffetSprite_Anim_13
+  - first:
+      213: 8414130691174941096
+    second: MuffetSprite_Anim_14
+  - first:
+      213: 5436314357219096429
+    second: MuffetSprite_Anim_15
+  - first:
+      213: -1341999159886151395
+    second: MuffetSprite_Anim_16
+  - first:
+      213: 2548697233370417075
+    second: MuffetSprite_Anim_17
+  - first:
+      213: 6392800548819298628
+    second: MuffetSprite_Anim_18
+  - first:
+      213: -8619321798973998788
+    second: MuffetSprite_Anim_19
+  - first:
+      213: 1477848865289525264
+    second: MuffetSprite_Anim_20
+  - first:
+      213: 226130310469003555
+    second: MuffetSprite_Anim_21
+  - first:
+      213: -4334269136105719962
+    second: MuffetSprite_Anim_22
+  - first:
+      213: -8039071739706991252
+    second: MuffetSprite_Anim_23
+  - first:
+      213: 1266664532885472952
+    second: MuffetSprite_Anim_24
+  - first:
+      213: -3032075075047589729
+    second: MuffetSprite_Anim_25
+  - first:
+      213: 5862219833543740170
+    second: MuffetSprite_Anim_26
+  - first:
+      213: -5559596159794540623
+    second: MuffetSprite_Anim_27
+  - first:
+      213: -2857043028507776094
+    second: MuffetSprite_Anim_28
+  - first:
+      213: -6115686986155712662
+    second: MuffetSprite_Anim_29
+  - first:
+      213: 7778603667869720024
+    second: MuffetSprite_Anim_30
+  - first:
+      213: -134283901215312828
+    second: MuffetSprite_Anim_31
+  - first:
+      213: -1908821827537848542
+    second: MuffetSprite_Anim_32
+  - first:
+      213: 7995249884475929681
+    second: MuffetSprite_Anim_33
+  - first:
+      213: 7256526987725110229
+    second: MuffetSprite_Anim_34
+  - first:
+      213: 2903313196863242624
+    second: MuffetSprite_Anim_35
+  - first:
+      213: -2594652506208505162
+    second: MuffetSprite_Anim_36
+  - first:
+      213: -8858902596586676857
+    second: MuffetSprite_Anim_37
+  - first:
+      213: 80214144686234526
+    second: MuffetSprite_Anim_38
+  - first:
+      213: -5496356438236362845
+    second: MuffetSprite_Anim_39
+  - first:
+      213: 6469888927080353118
+    second: MuffetSprite_Anim_40
+  - first:
+      213: 8828788349659303087
+    second: MuffetSprite_Anim_41
+  - first:
+      213: 6497766439621037489
+    second: MuffetSprite_Anim_42
+  - first:
+      213: 3997958119788922396
+    second: MuffetSprite_Anim_43
+  - first:
+      213: -1483486783227365053
+    second: MuffetSprite_Anim_44
+  - first:
+      213: -5298389269358082479
+    second: MuffetSprite_Anim_45
+  - first:
+      213: 457151680306885006
+    second: MuffetSprite_Anim_46
+  - first:
+      213: 8952848727425634634
+    second: MuffetSprite_Anim_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1272
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cb8ce26bc2de245abdba6bd22d4b86
+      internalID: 2259004643392451032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_1
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1272
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07713dafd4924547803b0b3e844c131
+      internalID: -2630867365174101165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_2
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1272
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cc3070ae0eaea45993a3a4f0c18c59
+      internalID: 613508230705927047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_3
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1272
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff0351d864814a45ae66f8641f7b6bf
+      internalID: 8105932297070739689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_4
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1272
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f1ad30f0c20e44086ac0490cddb16b
+      internalID: -11708394977261228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_5
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1272
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75b41cb056db2f49b6a590e6c3f8d07
+      internalID: -3867934737473166392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_6
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1272
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eab5a57a9a3c69489af3854dc18e554
+      internalID: -3705404855555845964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1060
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e00969dd7d2f4e41b6c9a5ffe0dcce0
+      internalID: -5186237859517595935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_8
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1060
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ad6353f15361940b01b60f66bb932d
+      internalID: 873686215861301749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1060
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ae27b0bcb9084418b7248e06744566
+      internalID: 399629710498199199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_10
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1060
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e7b70d28ec3a94da7b2c88ded9f0b0
+      internalID: 2065473070982269933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_11
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1060
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c867192ce9fc1734c9151bb010a79166
+      internalID: -2119032538725299679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_12
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1060
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e33f5a19f746a408da34d78a4e2c76
+      internalID: 7341562389193176289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_13
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1060
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cb9ad93974e8924e9835390c4ce7656
+      internalID: -324970475298622653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 848
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cf91d1cd75b4674c87ea435988aec1e
+      internalID: 8414130691174941096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_15
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 848
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbe980c229e9484eb7eaca79207df93
+      internalID: 5436314357219096429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_16
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 848
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b20bbab3b39ee419632c7eae8a8936
+      internalID: -1341999159886151395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_17
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 848
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c3850f180b7d34a889400861aab125
+      internalID: 2548697233370417075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 848
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23367ebf64442c4c85b6deaa1a29e66
+      internalID: 6392800548819298628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_19
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 848
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91392b7a2924b87498b4b24a7f5cdcaf
+      internalID: -8619321798973998788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_20
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 848
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5018ada041113449b03a50b774a15e
+      internalID: 1477848865289525264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 636
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212b47c1aa714064f8526d6809554773
+      internalID: 226130310469003555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 636
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76506af51cda5254a832bdbb258cd6b5
+      internalID: -4334269136105719962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_23
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 636
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc8ba9c4aba60b498f2ef55dc869aab
+      internalID: -8039071739706991252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_24
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 636
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89176ab3b020e64ba5d6f01658f72d6
+      internalID: 1266664532885472952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_25
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 636
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210f73c71932f3742a98b57029a935f7
+      internalID: -3032075075047589729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_26
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 636
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c03858aac8e27646a901ab6a8a647f0
+      internalID: 5862219833543740170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_27
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 636
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186470bc1f789244d825426f7666abdd
+      internalID: -5559596159794540623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 424
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a8d7c8691bb9947bf507498c777649
+      internalID: -2857043028507776094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_29
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 424
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00b1cf7ac59240449e75c592c733813
+      internalID: -6115686986155712662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_30
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 424
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0737c6bc1da51d40b31bf860ec9ad80
+      internalID: 7778603667869720024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_31
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 424
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3e5fd950f9f574ea664c66c2282891
+      internalID: -134283901215312828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_32
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 424
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507d21551293d45439d74c1b1b981426
+      internalID: -1908821827537848542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_33
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 424
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af85146eb2495184d888e5decae2b803
+      internalID: 7995249884475929681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_34
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 424
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458d756547527f9418132b58dba3ba5b
+      internalID: 7256526987725110229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae2be9d7248b1d4f850a4e4ae3d4a6b
+      internalID: 2903313196863242624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_36
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 212
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6033d7bfa241d50409bffbc9441038b0
+      internalID: -2594652506208505162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_37
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 212
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae654ea577d63d4abbbcf0bb0c32c2b
+      internalID: -8858902596586676857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_38
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 212
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911e5286ca039c64182b53ab4236364b
+      internalID: 80214144686234526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_39
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 212
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f7f9dad85bc484db3109ec88dcfb0c
+      internalID: -5496356438236362845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_40
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 212
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dc3e7a7b668dce47aa9f273424732c6
+      internalID: 6469888927080353118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_41
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 212
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59983b6e35718ef41b785a0d02d9354b
+      internalID: 8828788349659303087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b01e0c4f76c3bb4fb16c20b065dea9a
+      internalID: 6497766439621037489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_43
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 0
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f169d94afb81db44a91251f46599e53a
+      internalID: 3997958119788922396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_44
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b272f3dcd115dba4797c0aa344c0d925
+      internalID: -1483486783227365053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_45
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 0
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cf591badd39b64c97dd7305542743f
+      internalID: -5298389269358082479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_46
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30607bdf405cce49b97d80ca5b65bf4
+      internalID: 457151680306885006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MuffetSprite_Anim_47
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 216
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d5df204fcd70b40bd89b7910dc17e4
+      internalID: 8952848727425634634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      MuffetSprite_Anim_0: 2259004643392451032
+      MuffetSprite_Anim_1: -2630867365174101165
+      MuffetSprite_Anim_10: 2065473070982269933
+      MuffetSprite_Anim_11: -2119032538725299679
+      MuffetSprite_Anim_12: 7341562389193176289
+      MuffetSprite_Anim_13: -324970475298622653
+      MuffetSprite_Anim_14: 8414130691174941096
+      MuffetSprite_Anim_15: 5436314357219096429
+      MuffetSprite_Anim_16: -1341999159886151395
+      MuffetSprite_Anim_17: 2548697233370417075
+      MuffetSprite_Anim_18: 6392800548819298628
+      MuffetSprite_Anim_19: -8619321798973998788
+      MuffetSprite_Anim_2: 613508230705927047
+      MuffetSprite_Anim_20: 1477848865289525264
+      MuffetSprite_Anim_21: 226130310469003555
+      MuffetSprite_Anim_22: -4334269136105719962
+      MuffetSprite_Anim_23: -8039071739706991252
+      MuffetSprite_Anim_24: 1266664532885472952
+      MuffetSprite_Anim_25: -3032075075047589729
+      MuffetSprite_Anim_26: 5862219833543740170
+      MuffetSprite_Anim_27: -5559596159794540623
+      MuffetSprite_Anim_28: -2857043028507776094
+      MuffetSprite_Anim_29: -6115686986155712662
+      MuffetSprite_Anim_3: 8105932297070739689
+      MuffetSprite_Anim_30: 7778603667869720024
+      MuffetSprite_Anim_31: -134283901215312828
+      MuffetSprite_Anim_32: -1908821827537848542
+      MuffetSprite_Anim_33: 7995249884475929681
+      MuffetSprite_Anim_34: 7256526987725110229
+      MuffetSprite_Anim_35: 2903313196863242624
+      MuffetSprite_Anim_36: -2594652506208505162
+      MuffetSprite_Anim_37: -8858902596586676857
+      MuffetSprite_Anim_38: 80214144686234526
+      MuffetSprite_Anim_39: -5496356438236362845
+      MuffetSprite_Anim_4: -11708394977261228
+      MuffetSprite_Anim_40: 6469888927080353118
+      MuffetSprite_Anim_41: 8828788349659303087
+      MuffetSprite_Anim_42: 6497766439621037489
+      MuffetSprite_Anim_43: 3997958119788922396
+      MuffetSprite_Anim_44: -1483486783227365053
+      MuffetSprite_Anim_45: -5298389269358082479
+      MuffetSprite_Anim_46: 457151680306885006
+      MuffetSprite_Anim_47: 8952848727425634634
+      MuffetSprite_Anim_5: -3867934737473166392
+      MuffetSprite_Anim_6: -3705404855555845964
+      MuffetSprite_Anim_7: -5186237859517595935
+      MuffetSprite_Anim_8: 873686215861301749
+      MuffetSprite_Anim_9: 399629710498199199
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

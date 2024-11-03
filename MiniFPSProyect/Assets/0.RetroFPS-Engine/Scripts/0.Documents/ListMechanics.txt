@@ -1,0 +1,24 @@
+Mecanicas a programar
+
+-Sistema de dialogos atravez de palabras clave inspiracion (Danganropa) - partial complete
+
+-Dialogos interrogatiorios inspiracion (Chikcen Police) - Implemented in Alpha.
+
+-Dialogos con toques de rol, no repetibles inspiracion (vampire the masquerade bloodlines) -  complete.
+
+-Dialogos de debate o confrotativo (Kimi ga Shine) - Not Implementated
+
+-Dialogos con juego de dados de rol inspiracion(Baldurs Gate tres). - Not Implementated
+
+-Intercabio de escenas y diagoos continuados
+
+-Game manager para controlar el juego y todos los elementos del juego.
+    * Con maquina de estados.
+    * Patron state.
+    * patron command.
+
+-
+
+
+
+

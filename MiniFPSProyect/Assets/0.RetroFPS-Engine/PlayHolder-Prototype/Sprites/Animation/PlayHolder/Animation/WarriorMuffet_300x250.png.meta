@@ -1,0 +1,1966 @@
+fileFormatVersion: 2
+guid: a3094e7b50d0af546979d7c1fba90bfa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1977473330761261166
+    second: WarriorMuffet_300x250_0
+  - first:
+      213: 903841937465600869
+    second: WarriorMuffet_300x250_1
+  - first:
+      213: -7853146263385964005
+    second: WarriorMuffet_300x250_2
+  - first:
+      213: -6335928404421322621
+    second: WarriorMuffet_300x250_3
+  - first:
+      213: -8076959348277800583
+    second: WarriorMuffet_300x250_4
+  - first:
+      213: 4602421346799009744
+    second: WarriorMuffet_300x250_5
+  - first:
+      213: -3612844799788793644
+    second: WarriorMuffet_300x250_6
+  - first:
+      213: 846894045238672158
+    second: WarriorMuffet_300x250_7
+  - first:
+      213: 1436474404582491236
+    second: WarriorMuffet_300x250_8
+  - first:
+      213: 1806281465824186649
+    second: WarriorMuffet_300x250_9
+  - first:
+      213: 6077685260024695548
+    second: WarriorMuffet_300x250_10
+  - first:
+      213: 2999377823499435344
+    second: WarriorMuffet_300x250_11
+  - first:
+      213: 7990988578250081343
+    second: WarriorMuffet_300x250_12
+  - first:
+      213: 4032478148271997622
+    second: WarriorMuffet_300x250_13
+  - first:
+      213: 8319646322250649168
+    second: WarriorMuffet_300x250_14
+  - first:
+      213: -4332470058652828398
+    second: WarriorMuffet_300x250_15
+  - first:
+      213: 4504877010281614688
+    second: WarriorMuffet_300x250_16
+  - first:
+      213: -4622027728403872281
+    second: WarriorMuffet_300x250_17
+  - first:
+      213: -8945988738088587174
+    second: WarriorMuffet_300x250_18
+  - first:
+      213: 8652130029692053399
+    second: WarriorMuffet_300x250_19
+  - first:
+      213: -3384769734640093348
+    second: WarriorMuffet_300x250_20
+  - first:
+      213: 5463132965036730126
+    second: WarriorMuffet_300x250_21
+  - first:
+      213: -3521474217694643669
+    second: WarriorMuffet_300x250_22
+  - first:
+      213: 7182265178115231948
+    second: WarriorMuffet_300x250_23
+  - first:
+      213: 837238206607606037
+    second: WarriorMuffet_300x250_24
+  - first:
+      213: 101637161147954571
+    second: WarriorMuffet_300x250_25
+  - first:
+      213: -746233622389990241
+    second: WarriorMuffet_300x250_26
+  - first:
+      213: 8102276388857011919
+    second: WarriorMuffet_300x250_27
+  - first:
+      213: 374957211125928333
+    second: WarriorMuffet_300x250_28
+  - first:
+      213: -4910598596123790608
+    second: WarriorMuffet_300x250_29
+  - first:
+      213: -5210426612558163818
+    second: WarriorMuffet_300x250_30
+  - first:
+      213: 2213494460206795395
+    second: WarriorMuffet_300x250_31
+  - first:
+      213: -2779408997444851503
+    second: WarriorMuffet_300x250_32
+  - first:
+      213: 7255680654520136640
+    second: WarriorMuffet_300x250_33
+  - first:
+      213: 3077681421671091181
+    second: WarriorMuffet_300x250_34
+  - first:
+      213: 3624851638243984179
+    second: WarriorMuffet_300x250_35
+  - first:
+      213: 6086069141114651914
+    second: WarriorMuffet_300x250_36
+  - first:
+      213: 4859735124620552647
+    second: WarriorMuffet_300x250_37
+  - first:
+      213: 6841906198315694631
+    second: WarriorMuffet_300x250_38
+  - first:
+      213: -6362054255769614509
+    second: WarriorMuffet_300x250_39
+  - first:
+      213: 1928933607787989369
+    second: WarriorMuffet_300x250_40
+  - first:
+      213: -2379262436816230983
+    second: WarriorMuffet_300x250_41
+  - first:
+      213: 8881063895470376847
+    second: WarriorMuffet_300x250_42
+  - first:
+      213: 4656378004563747264
+    second: WarriorMuffet_300x250_43
+  - first:
+      213: 3843149248507690527
+    second: WarriorMuffet_300x250_44
+  - first:
+      213: -5195023301578819726
+    second: WarriorMuffet_300x250_45
+  - first:
+      213: -4137863234605041540
+    second: WarriorMuffet_300x250_46
+  - first:
+      213: 2761639044262969028
+    second: WarriorMuffet_300x250_47
+  - first:
+      213: -3965533320125421815
+    second: WarriorMuffet_300x250_48
+  - first:
+      213: -1593634049306782960
+    second: WarriorMuffet_300x250_49
+  - first:
+      213: -8853057682989827879
+    second: WarriorMuffet_300x250_50
+  - first:
+      213: 5249933443997322877
+    second: WarriorMuffet_300x250_51
+  - first:
+      213: -6058362156920316551
+    second: WarriorMuffet_300x250_52
+  - first:
+      213: -6082448253676721475
+    second: WarriorMuffet_300x250_53
+  - first:
+      213: -2477611888952993933
+    second: WarriorMuffet_300x250_54
+  - first:
+      213: -2022927193304494636
+    second: WarriorMuffet_300x250_55
+  - first:
+      213: -7553532679189245377
+    second: WarriorMuffet_300x250_56
+  - first:
+      213: 2445577292798175231
+    second: WarriorMuffet_300x250_57
+  - first:
+      213: -6632181566034580993
+    second: WarriorMuffet_300x250_58
+  - first:
+      213: 1313927307938090951
+    second: WarriorMuffet_300x250_59
+  - first:
+      213: -7958376890687131812
+    second: WarriorMuffet_300x250_60
+  - first:
+      213: -1325945828589988355
+    second: WarriorMuffet_300x250_61
+  - first:
+      213: 5085068647093866748
+    second: WarriorMuffet_300x250_62
+  - first:
+      213: -1189582052040436096
+    second: WarriorMuffet_300x250_63
+  - first:
+      213: 1802296854864648685
+    second: WarriorMuffet_300x250_64
+  - first:
+      213: -8764147079415696018
+    second: WarriorMuffet_300x250_65
+  - first:
+      213: 7087852525884582503
+    second: WarriorMuffet_300x250_66
+  - first:
+      213: 5846883778529658736
+    second: WarriorMuffet_300x250_67
+  - first:
+      213: 5994810379823698734
+    second: WarriorMuffet_300x250_68
+  - first:
+      213: -5022694140582244891
+    second: WarriorMuffet_300x250_69
+  - first:
+      213: 3659805133681994721
+    second: WarriorMuffet_300x250_70
+  - first:
+      213: 1550456884307918890
+    second: WarriorMuffet_300x250_71
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1750
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 694ba11545259c546bd03a1b9706ee5a
+      internalID: 1977473330761261166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_1
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1750
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e639ec012a1174d8000678d88c7693
+      internalID: 903841937465600869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_2
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1750
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afee9f2a734aaf049bfc463725782d60
+      internalID: -7853146263385964005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_3
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1750
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307c9c1fc91de134f975bfecbeef7ef9
+      internalID: -6335928404421322621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_4
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1750
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fdbbdfb5f7ca142ba4f4ac55e1d0ac
+      internalID: -8076959348277800583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_5
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1750
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8714f349b14648945a0ed70483b981cb
+      internalID: 4602421346799009744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_6
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1750
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3817db55e4fac48aa72986f9c21f68
+      internalID: -3612844799788793644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_7
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1750
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d76b2ebe2cc3d4f82ad6179ea47929
+      internalID: 846894045238672158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_8
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1750
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02372b9b098d9ca4ba4ea633403648bd
+      internalID: 1436474404582491236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1500
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e759d6ddbcb46f047b8885a5e2aa2a8b
+      internalID: 1806281465824186649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1500
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4371a608a5a9be48a405b914a254cb6
+      internalID: 6077685260024695548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1500
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e907d3117c9d5b74998203f3bcf09d9a
+      internalID: 2999377823499435344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_12
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1500
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658a51239489ab7408e919c46554281c
+      internalID: 7990988578250081343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_13
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1500
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4e262ed56699a409573da029987fde
+      internalID: 4032478148271997622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_14
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1500
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815d4a7f331e8714aa00adc4bbe845b1
+      internalID: 8319646322250649168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_15
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1500
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97903d985f054d04596a4394f8ca3d76
+      internalID: -4332470058652828398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_16
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1500
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd82c6be6f70f664d8a60c8ea86b7865
+      internalID: 4504877010281614688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_17
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1500
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e30cc115a0c1ee4c85ffdf1d3446acd
+      internalID: -4622027728403872281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1250
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6594dd6241390c14fa79f4048391ae75
+      internalID: -8945988738088587174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1250
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc55ab758d90592429ff4843681e5cb8
+      internalID: 8652130029692053399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_20
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1250
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7bb8458f62b576489b3e08a0da135c6
+      internalID: -3384769734640093348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_21
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1250
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874bb995f95fa3f42baca14a55c97ce7
+      internalID: 5463132965036730126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_22
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1250
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 370f266fdcf82b64d92d523cfaa9b2fd
+      internalID: -3521474217694643669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_23
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1250
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8c3293d47bd794ab60392e4f4a9f26
+      internalID: 7182265178115231948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_24
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1250
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0799639a08001e648a50a7ff231fd0ce
+      internalID: 837238206607606037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_25
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1250
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584fb7c5c75507c4a9f856354e80cf9f
+      internalID: 101637161147954571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_26
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1250
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccb7528856acb8d4b9999c883c763568
+      internalID: -746233622389990241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ebf7378e257564b8b81ef2e5c04cea
+      internalID: 8102276388857011919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_28
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1000
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1318673718d6bd4592d9a399457a90a
+      internalID: 374957211125928333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_29
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1000
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2eddbc667f5f234db4ae3be46959caf
+      internalID: -4910598596123790608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_30
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1000
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0c7c1959502b9488723bd5889e5e11
+      internalID: -5210426612558163818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_31
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1000
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fad605de681cb042add9bcdaad9ba99
+      internalID: 2213494460206795395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_32
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1000
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57f941888f251545a59fbbcdb66d1e3
+      internalID: -2779408997444851503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_33
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1000
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc74827a7379d84087a4e47b033ba0d
+      internalID: 7255680654520136640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_34
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1000
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217b2033776984047acd2ca0ee1c5131
+      internalID: 3077681421671091181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_35
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1000
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361a47729e38716419f22fdd4e38726f
+      internalID: 3624851638243984179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a7f14163d2bd6439cee3f2a5454009
+      internalID: 6086069141114651914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_37
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 750
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e89c97b83da236408b20937d9cf6edb
+      internalID: 4859735124620552647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_38
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 750
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c70bf234468014facc9b8a5df5023c
+      internalID: 6841906198315694631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_39
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 750
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f347c687ba4d31343b4e8cde9dfcdc96
+      internalID: -6362054255769614509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_40
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 750
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc2f29ca69081d47920e15ae1a107b9
+      internalID: 1928933607787989369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_41
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 750
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659426f00b972ae4ba16c95511e32e9d
+      internalID: -2379262436816230983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_42
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 750
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8edfdcbcfba03e4d97386f8818058cf
+      internalID: 8881063895470376847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_43
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 750
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab7f43de1d78d345b06aa2773920532
+      internalID: 4656378004563747264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_44
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 750
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43a21a0c4d7edb489c599a76a181cbc
+      internalID: 3843149248507690527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4e22e9c5bcb6b42ab2db03cddbea34
+      internalID: -5195023301578819726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_46
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 500
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d816239b20ac1a498fabe4f9ebe034d
+      internalID: -4137863234605041540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_47
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 500
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80bf3f03e1217645b6748f64367d204
+      internalID: 2761639044262969028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_48
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 500
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76291a1a03a12f340a3c9e71d59738c1
+      internalID: -3965533320125421815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_49
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 500
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b082267cfa37946a1c330207605699
+      internalID: -1593634049306782960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_50
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 500
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e77132c82afc8fd4cae7db250f4831c3
+      internalID: -8853057682989827879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_51
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 500
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b954c489ee254934b99975c49c59acdb
+      internalID: 5249933443997322877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_52
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 500
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2eab4d9d816df24e9f5acf9c27bbf2e
+      internalID: -6058362156920316551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_53
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 500
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac2efcf2920a0f488639ecd5402ba94
+      internalID: -6082448253676721475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d3d77edba77404fa89f711f149ca6d
+      internalID: -2477611888952993933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_55
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 250
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 414b2f21f8e6442478da5ab6692b670a
+      internalID: -2022927193304494636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_56
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 250
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f3e2a0ea850794bb3d067d3f42bee1
+      internalID: -7553532679189245377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_57
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 250
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e4d37fd1614a143b8137cbb55053c2
+      internalID: 2445577292798175231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_58
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 250
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d218c7791be855448f009e04f5adfe0
+      internalID: -6632181566034580993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_59
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 250
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae0a59e7d6f4bc4493696570602bf12
+      internalID: 1313927307938090951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_60
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 250
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba06eee0fd8d2a249af27bda8bef9dd3
+      internalID: -7958376890687131812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_61
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 250
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c854b0fece6f2c44c9c5163f1eb46782
+      internalID: -1325945828589988355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_62
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 250
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9adb1dca8ae9d4dbbcae10601820b4
+      internalID: 5085068647093866748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06dfe0202e5e3c0489f960b070d27ac8
+      internalID: -1189582052040436096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_64
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e903c5bd7d1cd44b1aa661b6beb7b9
+      internalID: 1802296854864648685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_65
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43dedb2c6dcb0b34c93996637977fe3d
+      internalID: -8764147079415696018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_66
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9271b60101d2b44907b14fdb95ee22
+      internalID: 7087852525884582503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_67
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3582adbbb851b274e987946ef8e1de77
+      internalID: 5846883778529658736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_68
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66d1368debea5c46a8580b7dbb049d8
+      internalID: 5994810379823698734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_69
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34a912cba82e3a45b6e46a83a9aaa3c
+      internalID: -5022694140582244891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_70
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 285d1348009f42d42aa9d2f8da706c47
+      internalID: 3659805133681994721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WarriorMuffet_300x250_71
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 300
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d40c2eb0736e34bb67d0649929d179
+      internalID: 1550456884307918890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      WarriorMuffet_300x250_0: 1977473330761261166
+      WarriorMuffet_300x250_1: 903841937465600869
+      WarriorMuffet_300x250_10: 6077685260024695548
+      WarriorMuffet_300x250_11: 2999377823499435344
+      WarriorMuffet_300x250_12: 7990988578250081343
+      WarriorMuffet_300x250_13: 4032478148271997622
+      WarriorMuffet_300x250_14: 8319646322250649168
+      WarriorMuffet_300x250_15: -4332470058652828398
+      WarriorMuffet_300x250_16: 4504877010281614688
+      WarriorMuffet_300x250_17: -4622027728403872281
+      WarriorMuffet_300x250_18: -8945988738088587174
+      WarriorMuffet_300x250_19: 8652130029692053399
+      WarriorMuffet_300x250_2: -7853146263385964005
+      WarriorMuffet_300x250_20: -3384769734640093348
+      WarriorMuffet_300x250_21: 5463132965036730126
+      WarriorMuffet_300x250_22: -3521474217694643669
+      WarriorMuffet_300x250_23: 7182265178115231948
+      WarriorMuffet_300x250_24: 837238206607606037
+      WarriorMuffet_300x250_25: 101637161147954571
+      WarriorMuffet_300x250_26: -746233622389990241
+      WarriorMuffet_300x250_27: 8102276388857011919
+      WarriorMuffet_300x250_28: 374957211125928333
+      WarriorMuffet_300x250_29: -4910598596123790608
+      WarriorMuffet_300x250_3: -6335928404421322621
+      WarriorMuffet_300x250_30: -5210426612558163818
+      WarriorMuffet_300x250_31: 2213494460206795395
+      WarriorMuffet_300x250_32: -2779408997444851503
+      WarriorMuffet_300x250_33: 7255680654520136640
+      WarriorMuffet_300x250_34: 3077681421671091181
+      WarriorMuffet_300x250_35: 3624851638243984179
+      WarriorMuffet_300x250_36: 6086069141114651914
+      WarriorMuffet_300x250_37: 4859735124620552647
+      WarriorMuffet_300x250_38: 6841906198315694631
+      WarriorMuffet_300x250_39: -6362054255769614509
+      WarriorMuffet_300x250_4: -8076959348277800583
+      WarriorMuffet_300x250_40: 1928933607787989369
+      WarriorMuffet_300x250_41: -2379262436816230983
+      WarriorMuffet_300x250_42: 8881063895470376847
+      WarriorMuffet_300x250_43: 4656378004563747264
+      WarriorMuffet_300x250_44: 3843149248507690527
+      WarriorMuffet_300x250_45: -5195023301578819726
+      WarriorMuffet_300x250_46: -4137863234605041540
+      WarriorMuffet_300x250_47: 2761639044262969028
+      WarriorMuffet_300x250_48: -3965533320125421815
+      WarriorMuffet_300x250_49: -1593634049306782960
+      WarriorMuffet_300x250_5: 4602421346799009744
+      WarriorMuffet_300x250_50: -8853057682989827879
+      WarriorMuffet_300x250_51: 5249933443997322877
+      WarriorMuffet_300x250_52: -6058362156920316551
+      WarriorMuffet_300x250_53: -6082448253676721475
+      WarriorMuffet_300x250_54: -2477611888952993933
+      WarriorMuffet_300x250_55: -2022927193304494636
+      WarriorMuffet_300x250_56: -7553532679189245377
+      WarriorMuffet_300x250_57: 2445577292798175231
+      WarriorMuffet_300x250_58: -6632181566034580993
+      WarriorMuffet_300x250_59: 1313927307938090951
+      WarriorMuffet_300x250_6: -3612844799788793644
+      WarriorMuffet_300x250_60: -7958376890687131812
+      WarriorMuffet_300x250_61: -1325945828589988355
+      WarriorMuffet_300x250_62: 5085068647093866748
+      WarriorMuffet_300x250_63: -1189582052040436096
+      WarriorMuffet_300x250_64: 1802296854864648685
+      WarriorMuffet_300x250_65: -8764147079415696018
+      WarriorMuffet_300x250_66: 7087852525884582503
+      WarriorMuffet_300x250_67: 5846883778529658736
+      WarriorMuffet_300x250_68: 5994810379823698734
+      WarriorMuffet_300x250_69: -5022694140582244891
+      WarriorMuffet_300x250_7: 846894045238672158
+      WarriorMuffet_300x250_70: 3659805133681994721
+      WarriorMuffet_300x250_71: 1550456884307918890
+      WarriorMuffet_300x250_8: 1436474404582491236
+      WarriorMuffet_300x250_9: 1806281465824186649
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

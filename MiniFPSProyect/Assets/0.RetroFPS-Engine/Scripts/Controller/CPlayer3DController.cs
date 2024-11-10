@@ -45,17 +45,20 @@ public class CPlayer3DController : MonoBehaviour
     float xHorizontal = Input.GetAxis("Horizontal");
     float zVertical = Input.GetAxis("Vertical");
 
+    _controller.transform.position = CameraTransform.transform.position;
     _moveDirection = direction_Transform.forward * zVertical; 
     _moveDirection += direction_Transform.right * xHorizontal; 
 
-    // if (_controller.isGrounded)
-    // {
-    //     _velocity.y = 0f; // Reiniciar la velocidad vertical si está en el suelo
-    //     if (Input.GetButtonDown("Jump"))
-    //     {
-    //         _velocity.y = Mathf.Sqrt(jumpHeight * -2f * -gravity);   
-    //     }   
-    // }
+
+
+    if (_controller.isGrounded)
+    {
+        _velocity.y = 0f; // Reiniciar la velocidad vertical si está en el suelo
+        if (Input.GetButtonDown("Jump"))
+        {
+            _velocity.y = Mathf.Sqrt(jumpHeight * -2f * -gravity);   
+        }   
+    }
 
     // Aplicar gravedad siempre
     _velocity.y -= gravity * Time.deltaTime;
@@ -65,15 +68,19 @@ public class CPlayer3DController : MonoBehaviour
     {
         _velocity.x = _moveDirection.x * moveSpeed;
         _velocity.z = _moveDirection.z * moveSpeed;
-
+        
         // Mirar alrededor solo si no está en modo puzzle
         float mouseX = Input.GetAxis("Mouse X") * mouseSensitivity;
         float mouseY = Input.GetAxis("Mouse Y") * mouseSensitivity*-1;
 
         _verticalRotation += mouseX;
         _horizontalRotation -= mouseY;
+        //transform.localEulerAngles = new Vector3(_horizontalRotation, _verticalRotation, 0f);
 
         _horizontalRotation = Mathf.Clamp(_horizontalRotation, -clampAngle, clampAngle);
+
+        // Rotar el objeto padre en Y
+            transform.parent.localEulerAngles = new Vector3(0f, _verticalRotation, 0f);
     }
     else 
     {
@@ -83,7 +90,11 @@ public class CPlayer3DController : MonoBehaviour
 
     _controller.Move(_velocity * Time.deltaTime);
     CameraTransform.transform.localEulerAngles = new Vector3(_horizontalRotation, _verticalRotation, 0f);
-       
+    
+    // Rotar el objeto padre en Y
+    CameraTransform.transform.localEulerAngles = new Vector3(_horizontalRotation, 0f, 0f); 
+
+
 
        if (Input.GetKeyDown(KeyCode.E)) // Cambia 'E' por la tecla que desees
         {
@@ -100,18 +111,13 @@ public class CPlayer3DController : MonoBehaviour
             }
         }
 
-        if (Input.GetKeyDown(KeyCode.Q))
-        {
-            CCameraManager.Inst.GetMainCamera().gameObject.SetActive(true);
-            CCameraManager.Inst.GetCamera1().gameObject.SetActive(false);
-            CCameraManager.Inst.GetCamera2().gameObject.SetActive(false);
-        }
+    
     }
 
- void OnDrawGizmos()
-    {
-        Gizmos.color = gizmoColor; // Establece el color del Gizmo
-        Gizmos.DrawLine(transform.position, transform.position + transform.forward * interactionDistance); // Línea hacia adelante
-        Gizmos.DrawSphere(transform.position + transform.forward * interactionDistance, 0.2f); // Esfera al final de la línea
-    }
+public Transform getDirectionTransform()
+{
+    return direction_Transform;
+}
+
+
 }

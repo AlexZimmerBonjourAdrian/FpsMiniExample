@@ -43,7 +43,7 @@ public class PlayerMovement : MonoBehaviour {
 		horizontalMove = Input.GetAxisRaw("Horizontal") * runSpeed;
 
 		animator.SetFloat("Speed", Mathf.Abs(horizontalMove));
-		animator.SetFloat("SpeedY", _rigidbody2D.velocity.y);
+		animator.SetFloat("SpeedY", _rigidbody2D.linearVelocity.y);
 
 		if (Input.GetButtonDown("Jump"))
 		{
